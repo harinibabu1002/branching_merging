@@ -1,4 +1,5 @@
 a=int(input())
 b=int(input())
-print("version2")
+print("version3")
+print("difference")
 print(a-b)
