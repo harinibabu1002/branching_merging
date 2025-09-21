@@ -1,6 +1,7 @@
 a=int(input())
 b=int(input())
 print(a*b)
+print("branch multiplication 4")
 print("branch multiplication 5")
 print("branch multiplication commit 2")
 print("branch multiplication commit 3")
